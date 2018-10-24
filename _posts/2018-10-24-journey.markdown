@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "*# Journey ..*"
+date:       2018-10-24 13:56:58 +0000
+permalink:  journey
+---
+
+
+Well, after 20 some odd years of a career in an unrelated field,  I have decided to change course. Due to an unexpected loss of employment, I had to make some quick decisions. 
+
+I have had a passion for code ever since I took an online course in Python and then another nanodegree program in Web Development. I pretty much kept up with learning on my own for the past 3 years. The kick in the butt was unemployment.
+
+After researching, I decided that I should make the move and learn with a school which would be able to help me with my goal of starting a new career in Web Development. I decided on Flatiron and here I am.
+
+I have not missed a day since I enrolled on the program. Thankfully, I have some knowledge of Javascript, HTML, CSS and Bootstrap and Git. However, it has still been challenging and exciting and frustrating. Some days I feel like a champion and some days like an idiot. Can't wait for the day when I feel like I actually know something! 
+
+So, here I am. Starting over again (3 times? 4 times?). Hopefully, this will be a fabulous journey!
