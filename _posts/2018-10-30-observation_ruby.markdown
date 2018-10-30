@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "OBSERVATION RUBY"
-date:       2018-10-30 15:00:49 +0000
+date:       2018-10-30 11:00:50 -0400
 permalink:  observation_ruby
 ---
 
