@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**I CAN'T RELATE! THE SEARCH FOR A SIMPLE EXPLANATION**"
+title:      "I CAN'T RELATE! The Search for a Simple Explanation"
 date:       2018-11-18 11:26:45 -0500
 permalink:  i_cant_relate_the_search_for_a_simple_explanation
 ---
