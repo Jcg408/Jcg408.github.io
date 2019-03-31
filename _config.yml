@@ -1,11 +1,11 @@
 # Site settings
 author: Jessica Gladstone
-title: 
+title: J. Gladstone at Flatiron
 header-img: img/home-bg.png
 email: jcg321@comcast.net
 copyright_name: Jessica Gladstone
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron Observations & Experiences
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jcg408
