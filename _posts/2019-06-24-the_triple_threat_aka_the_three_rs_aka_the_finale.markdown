@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "The Triple Threat ! (aka The Three R's) (aka The Finale"
-date:       2019-06-24 21:27:30 +0000
+title:      "The Triple Threat ! (aka The Three R's) (aka The Finale)"
+date:       2019-06-24 17:27:30 -0400
 permalink:  the_triple_threat_aka_the_three_rs_aka_the_finale
 ---
 
