@@ -1,11 +1,11 @@
 # Site settings
 author: Jessica Gladstone
-title: Full Stack Web Development
+title: Observations in Web Dev
 header-img: img/home-bg.png
 email: jcg321@comcast.net
 copyright_name: Jessica Gladstone
 description: > # this means to ignore newlines until "baseurl:"
-  Observations in Web Dev
+  Full Stack 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jcg408
