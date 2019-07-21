@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Who is Fibonacci anyway? "
-date:       2019-07-21 21:03:16 +0000
+date:       2019-07-21 17:03:16 -0400
 permalink:  who_is_fibonacci_anyway
 ---
 
@@ -32,10 +32,10 @@ So, if you need to find the Nth element in the sequence we could use a simple fo
 					 return sum;
 			};
 
- fb(9);  //
+ fb(9);  
  
- The 9th element in the Fibonacci sequence is 34. The first loop returns 1 and function re-loops until it reaches element count.
+ The 9th element in the Fibonacci sequence is 34. The first loop returns 1 andthe function re-loops until it reaches element count.
 
-Now, I don't have a background in CS but I found this helpful in understanding how this algorithm coule be useful in
+Now, I don't have a background in CS but I found this helpful in understanding how the algorithm could be useful in
 programming. We can forecast the number of rabbits in an epic rabbit population explosion! Just kidding! I'm sure it has something to do with recursive patterns.
 						 
