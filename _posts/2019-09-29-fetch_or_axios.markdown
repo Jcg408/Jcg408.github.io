@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Fetch or Axios?"
-date:       2019-09-29 16:28:48 +0000
+date:       2019-09-29 12:28:49 -0400
 permalink:  fetch_or_axios
 ---
 
 
-I recently attended a meeting where the discussion centered around the differences and benefits or using either the Fetch API or Axios npm for HTTP requests. (I should mention, that everyone agreed that both are absolute improvements on the Jquery ajax method.) This discussion was enlightening to me because I always thought they were basically the same thing but Axios was cleaner syntax. Well, that's not exactly true.
+I recently attended a meeting where the discussion centered around the differences and benefits or using either the Fetch API or Axios npm for HTTP requests. (I should mention, that everyone agreed that both are absolute improvements on the Jquery ajax method.) This discussion was enlightening to me because I always thought they were basically the same thing except Axios had cleaner syntax. Well, that's not exactly true, is it?
 
 I spent some time researching the two and here is what I came up with -
 
