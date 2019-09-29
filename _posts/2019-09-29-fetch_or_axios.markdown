@@ -10,7 +10,7 @@ I recently attended a meeting where the discussion centered around the differenc
 
 I spent some time researching the two and here is what I came up with -
 
-Fetch is a *global* method that fetches resources asynchronously across the network. It is a native part of JavaScript and therefore already part of the browser. As a part of JavaScript is also standard-compliant.
+Fetch is a *global* method that fetches resources asynchronously across the network. It is a native part of JavaScript and therefore already part of the browser and as a part of JavaScript is also standard-compliant.
 
 Since it is already available in the browser, there is no additional baggage added to an application. There are no third party dependencies or libraries to be added. This may seem negligible on a small application but depending on the project and if you aren't using Node, this may save a lot of weight. 
 
