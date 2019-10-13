@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Practice Makes Perfect"
-date:       2019-10-13 23:44:42 +0000
+date:       2019-10-13 19:44:43 -0400
 permalink:  practice_makes_perfect
 ---
 
 
-Prior to switching careers I was a performing artist. A triple threat performer - singer, dancer, actor. So, I understand all to well the importance of practice. In order to feel comfortable expressing the art you have to let it in your system and know all the moves, lines and notes.
+Prior to switching careers I was a performing artist. A triple threat performer - singer, dancer, actor. So, I understand, all too well, the importance of practice. In order to feel comfortable expressing the art you have to let it in your system and know all the moves, lines and notes.
 
 So, how is it I have the hardest time practicing code challenges for interviews. For the life of me, I don't understand why some interviewers want to torture me  with inane, ridiculous, mind blowing problems. But they do and if I am to get a job I have to come to grips with the fact and try to get comfortable working on them. As it stands now, I am comfortable working on understandable short functional algorithms. You want me to reverse a string? No problem. You want me to subdivide an array? Ok, You want a recursive factorial, yes I understand. These functions make sense to me because they actually do things which may be needed and they are explanatory without a dramatic backstory and 20 million constraints.
 
