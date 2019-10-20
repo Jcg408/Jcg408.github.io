@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Is Agile here to stay?"
-date:       2019-10-20 21:52:10 +0000
+title:      "What is Agile?"
+date:       2019-10-20 17:52:11 -0400
 permalink:  is_agile_here_to_stay
 ---
 
