@@ -23,14 +23,14 @@ A tree whose nodes have at most 2 children is called a binary tree. Since each n
 
 
 A Binary Tree node contains following parts: 
-1) Data
-2) Pointer to left child
-3) Pointer to right child
+*  Data
+*  Pointer to left child
+*  Pointer to right child
 
 **Binary Search Tree**
 
 A binary search tree is a type of ordered binary tree. The nodes in a binary search tree must be sorted. The nodes which have lesser value are stored in the left subtree and the nodes with higher value are stored in the right subtree.
-![](https://imgur.com/a/z3JMjhO)
+
 Binary search tree uses the principle of binary search. On average, this will use only half of the tree for search, insertion or deletion which reduces the time complexity of searching the entire tree. This is an advantage over a linear search especially for large numbers. Looking at an array of 1,000,000 elements, the binary search is O(log n) with a worst case of only 20 comparisons. A linear search of the same, O(n), on average will take 500,000 comparisons to search for an element. Binary search is faster on average. 
 
 The limitations of binary search are that the tree must be sorted and the tree must be balanced. The left subtree and right subtree must have the same height. This would need to be checked after insertion or deletion operations.
