@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "From Tree to Binary Search Tre"
-date:       2019-11-24 17:28:09 +0000
+title:      "From Tree to Binary Search Tree"
+date:       2019-11-24 12:28:10 -0500
 permalink:  from_tree_to_binary_search_tre
 ---
 
