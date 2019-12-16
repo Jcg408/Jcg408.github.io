@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby: Benefit of Modules"
-date:       2019-12-16 02:48:28 +0000
+date:       2019-12-15 21:48:29 -0500
 permalink:  ruby_benefit_of_modules
 ---
 
@@ -18,7 +18,7 @@ Mixin functionality allows sharing common methods across multiple classes or mod
 
 Mixins are great to  share functionality between classes. Instead of repeating the same code in different classes, you can place the code in a module and then include it into each class that requires it.
 
-Using modules also promotes good design principles. The reusability of code prevents the repetition of code throughout classes and  bundling related code in a common place handles separation of concerns and encapsulation. This helps to keep the classes more concise and clean.
+Using modules also promotes good design principles. The reusability of code prevents the repetition of code throughout classes and  bundling related code in a common place handles separation of concerns, single responsibility and encapsulation. This helps to keep the classes more concise and clean.
 
 
 
