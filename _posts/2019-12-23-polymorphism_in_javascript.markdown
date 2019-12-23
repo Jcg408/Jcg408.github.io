@@ -13,7 +13,7 @@ The term is used in biology and zoology to designate different gene traits withi
 
 Why did I choose polymorphism for the topic of this blog? Well, it’s the holiday season and I am looking at different shades of Poinsettias. Although it is most common to see red plants, there are variations such as white, pink and even red and white variegated. They are all the same plant but have genetic traits that differ. 
 
-This brings me to polymorphism in object oriented programming. It is not exactly the same but the concept has been adapted to mean the ability to create an object that has more than one form or as MDN puts it: >the ability of multiple object types to implement the same functionality.< Let’s look at this a little bit more using JavaScript. 
+This brings me to polymorphism in object oriented programming. It is not exactly the same but the concept has been adapted to mean the ability to create an object that has more than one form or as MDN puts it  "Polymorphism is the ability of multiple object types to implement the same functionality."  Let’s look at this a little bit more using JavaScript. 
 
 JavaScript, as you know, is not a typical object oriented language. Classical object-oriented languages have interfaces,  JavaScript uses subclasses which are created by inheritance. By using constructor functions we are able to create ‘classes’ and have ‘subclasses’ inherit methods and properties from the parent class.
 
