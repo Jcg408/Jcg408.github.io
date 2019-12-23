@@ -1,12 +1,11 @@
 ---
 layout: post
 title:      "Polymorphism in JavaScript"
-date:       2019-12-23 16:57:16 +0000
+date:       2019-12-23 11:57:17 -0500
 permalink:  polymorphism_in_javascript
 ---
 
 
-Polymorphism in JavaScript
 
 Polymorphism - From the greek poly - “multi, many” and morpho - “shape, form”. 
 
