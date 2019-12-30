@@ -8,6 +8,7 @@ permalink:  dealing_with_impostor_syndrome
 
 
 ```
+
 “I have written 11 books, but each time I think, ‘Uh oh, they’re going to find out now. I’ve run a game on everybody, and they’re going to find me out.’”   — Maya Angelou
 
 "When I wake up in the morning, I feel just like any other insecure 24-year-old girl. But I say, '*****, you're Lady Gaga, you better ******* get up and walk the walk today ...'" — Lady Gaga
