@@ -7,7 +7,7 @@ permalink:  polymorphism_in_javascript
 
 
 
-Polymorphism - From the greek poly - “multi, many” and morpho - “shape, form”. 
+Polymorphism - From the Greek poly - “multi, many” and morpho - “shape, form”. 
 
 The term is used in biology and zoology to designate different gene traits within a given species. To be classified as such, morphs must occupy the same habitat at the same time. 
 
