@@ -6,13 +6,11 @@ permalink:  dealing_with_impostor_syndrome
 ---
 
 
-
-```
-
+<
 “I have written 11 books, but each time I think, ‘Uh oh, they’re going to find out now. I’ve run a game on everybody, and they’re going to find me out.’”   — Maya Angelou
 
 "When I wake up in the morning, I feel just like any other insecure 24-year-old girl. But I say, '*****, you're Lady Gaga, you better ******* get up and walk the walk today ...'" — Lady Gaga
-```
+<
 
 People from all walks of life deal with impostor syndrome. It's that self-debilitating feeling that you are not good enough and that you might be in over your head. That you really aren’t as good at your job as everyone believes or you're not really deserving of the position you find yourself in. You are waiting for the day they discover you’re a fraud. How could they not have seen it earlier?
 
