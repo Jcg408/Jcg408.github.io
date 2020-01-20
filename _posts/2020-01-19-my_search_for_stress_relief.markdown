@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "My Search for Stress Relief"
-date:       2020-01-20 01:41:31 +0000
+date:       2020-01-19 20:41:32 -0500
 permalink:  my_search_for_stress_relief
 ---
 
 
-In my search for mindless entertainment on the television, I came across a documentary about stress and its effects on mental and physical health. This is ironic, since I the goal of my search was a break from a stressful coding project. Considering my current situation ( looking for a job in a new career path, running low on funds, imposter syndrome) the stress level is pretty high. I do my best to try and alleviate it by watching mindless nonsensical television (I know, that’s pretty much every show on television), or finding something else to do outside the realm of coding. It’s difficult and I eventually go back to a stressful situation without much relief. 
+In my search for mindless entertainment on the television, I came across a documentary about stress and its effects on mental and physical health. This is ironic, since the goal of my search was a break from a stressful coding project. Considering my current situation ( looking for a job in a new career path, running low on funds, imposter syndrome) the stress level is pretty high. I do my best to try and alleviate it by watching mindless nonsensical television (I know, that’s pretty much every show on television), or finding something else to do outside the realm of coding. It’s difficult and I eventually go back to a stressful situation without much relief. 
  
 However, I decided to watch and possibly get some more options to try. I was hopeful that one or more of these pointers would be the answer I needed. One of the suggestions was Neurofeedback which seems to be a viable choice if you don't mind wearing a helmet with sensors attached to your head. I declined that option due to cost and wardrobe compatibility. Here are some other options.
  
