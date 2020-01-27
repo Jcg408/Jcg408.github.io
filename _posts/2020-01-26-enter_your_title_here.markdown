@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Enter your title here"
-date:       2020-01-27 01:10:13 +0000
+title:      "Dependency Injection "
+date:       2020-01-26 20:10:14 -0500
 permalink:  enter_your_title_here
 ---
 
