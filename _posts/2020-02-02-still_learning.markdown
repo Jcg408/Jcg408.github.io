@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Still Learning "
-date:       2020-02-03 01:29:07 +0000
+date:       2020-02-02 20:29:08 -0500
 permalink:  still_learning
 ---
 
 
 Lately, I have been feeling a bit befuddled in deciding how to improve my tech skills. It has become quite apparent, during the job search, that in order to be a top candidate you need to be proficient in more than a few technologies. It is not enough to know one programming language. You are expected to know 2 or more languages proficiently, plus various frameworks, libraries, backend platforms, cloud platforms, testing programs, etc. depending on the stack; 
 
-I was so frustrated last week, I almost gave up! Nah… I’m exaggerating. I am a very persistent person. I don’t give up, unless there are no options and even then I give it the good ol' college try. However, it can be overwhelming and maddening to a certain degree. My problem is that it’s difficult to decide what I should be working on when there are so many things I need to work on. I want to be able to spend adequate time on whatever I am working on, but then I feel like I am neglecting other things that I need to improve. I sometimes picture myself like the Indian goddess Durga, clutching different tech weapons in all of my many hands. Ready to tackle any programming obstacle that comes my way. But then, the weapons evaporate and I am defeated.
+I was so frustrated last week, I almost gave up! Nah… I’m exaggerating. I am a very persistent person. I don’t give up, unless there are no options and even then I give it the good ol' college try. However, it can be overwhelming and maddening to a certain degree. My problem is that it’s difficult to decide what I should be working on when there are so many things I need to work on. I want to be able to spend adequate time on whatever I am working on, but then I feel like I am neglecting other things that I need to improve. I sometimes picture myself like the Hindu goddess Durga, clutching different tech weapons in all of my many hands. Ready to tackle any programming obstacle that comes my way. But then, the weapons evaporate and I am defeated.
 
 This seems to be a problem with many new software engineers. I know, for myself, that the desire and drive  to excel in this field as a prime hiring candidate, pushes me to learn as much as I can. Unfortunately, with all the technology out there, it is very difficult to decide which are most beneficial for my current situation and which can be tackled at a later time? Depending on who I speak with, the answer changes - JavaScript, Ruby,  Learn another language - Java or C++; learn another framework- Vue, Angular, Backbone; work on SQL - work on NoSQL; MERN stack; MEAN stack;  React/Rails/Redux; AWS or Azure; cloud platform; Testing; OOD - SOLID, CS theory, algorithms. It’s never ending. How in the world can I conquer it all? 
 
