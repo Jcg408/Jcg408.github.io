@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Image Optimization"
-date:       2020-02-10 03:54:26 +0000
+date:       2020-02-09 22:54:27 -0500
 permalink:  image_optimization
 ---
 
@@ -18,7 +18,7 @@ There are a number of things to consider when optimizing and saving images for t
 
 It is important to  label your images correctly for SEO purposes and save them in the correct color format (sRGB for web). This will help increase the ranking on search engine platforms such as Google, Safari, etc.
 
-There are plenty of sites that offer image compression and optimization (https://imageoptimizer.in/, https://tinypng.com/, https://imagecompressor.com/).
+There are plenty of sites that offer image compression and optimization [(https://imageoptimizer.in/, https://tinypng.com/, https://imagecompressor.com/)]
 If you have a photo editor, then you more than likely have optimization capabilities.
 There are so many factors involved in building a visually appealing website. Images and graphics help attract clients, so it is important that they are optimized to enhance the experience without weighing down the site.
 
