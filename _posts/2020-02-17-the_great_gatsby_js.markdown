@@ -1,12 +1,10 @@
 ---
 layout: post
 title:      "The Great Gatsby(JS)"
-date:       2020-02-17 20:55:21 +0000
+date:       2020-02-17 15:55:22 -0500
 permalink:  the_great_gatsby_js
 ---
 
-
-The Great Gatsby -
 
 Recently, I was asked to create a portfolio website for a client. The portfolio was to be a single page, presentational site. Because I really didn’t have much time to complete the project along with other projects I was already working on, I searched for the best way to accomplish the task. 
 
